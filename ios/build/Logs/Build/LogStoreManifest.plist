@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>9</integer>
+	<key>logs</key>
+	<dict>
+		<key>0084F92C-4277-46EF-B8D6-989288619F93</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>0084F92C-4277-46EF-B8D6-989288619F93.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>push project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>push</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Building project push with scheme push and configuration Debug</string>
+			<key>timeStartedRecording</key>
+			<real>571158952.25695205</real>
+			<key>timeStoppedRecording</key>
+			<real>571159019.08529794</real>
+			<key>title</key>
+			<string>Building project push with scheme push and configuration Debug</string>
+			<key>uniqueIdentifier</key>
+			<string>0084F92C-4277-46EF-B8D6-989288619F93</string>
+		</dict>
+		<key>D472591B-D3D0-4DCD-9B6E-BE745ECC9F96</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>D472591B-D3D0-4DCD-9B6E-BE745ECC9F96.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>E</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>push project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>push</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Building project push with scheme push and configuration Debug</string>
+			<key>timeStartedRecording</key>
+			<real>571096916.42690396</real>
+			<key>timeStoppedRecording</key>
+			<real>571096965.77341795</real>
+			<key>title</key>
+			<string>Building project push with scheme push and configuration Debug</string>
+			<key>uniqueIdentifier</key>
+			<string>D472591B-D3D0-4DCD-9B6E-BE745ECC9F96</string>
+		</dict>
+	</dict>
+</dict>
+</plist>
